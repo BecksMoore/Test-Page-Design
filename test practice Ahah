@@ -1,0 +1,35 @@
+<!DOCTYPE>
+<title>Project</title>
+<style>
+	div {
+		padding: 80px;
+		margin: 60px;
+		text-align: center;
+		border: 100px orange;
+		border-width: 25px;
+		background: grey;
+	}
+	.outset {
+		border-style: outset;
+	}
+	.p {
+		color: white;
+		font-size: 20px;
+	}
+	.outset {
+		color: white;
+		font-size: 150px;
+		font-family: verdana, sans-seriff;
+	}
+	.Space {
+
+	}
+</style>
+<div class="outset">My Project</div>
+<html>
+<body background="http://tse1.mm.bing.net/th?id=OIP.wsFWyGiaeJp-GHSBCS3ZcAHaE8&rs=1&pcl=dddddd&o=5&pid=1.1">
+	<p><font color="white"><font size="10"> Hello this is my Project Page!</p>
+	<h1>Topics</h1>
+	<a href="">Space >>></a>
+</body>
+</html>
